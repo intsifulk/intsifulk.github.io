@@ -1,0 +1,13 @@
+[10/18/2017, 2:41:45 PM] layer "logo.png": Duplicate path: logo.png
+[10/18/2017, 2:41:45 PM] layer "pizza@parmigianos.com  copy": Expected end of input but "c" found.
+[10/18/2017, 2:41:45 PM] layer "facebook.png": Duplicate path: facebook.png
+[10/18/2017, 2:41:45 PM] layer "instagram.png": Duplicate path: instagram.png
+[10/18/2017, 2:41:45 PM] layer "twitter.png": Duplicate path: twitter.png
+[10/18/2017, 2:41:45 PM] layer "pinterest.png": Duplicate path: pinterest.png
+[10/18/2017, 2:41:45 PM] layer "pizza@parmigianos.com  copy 2": Expected end of input but "c" found.
+[10/18/2017, 2:41:45 PM] layer "facebook.png": Duplicate path: facebook.png
+[10/18/2017, 2:41:45 PM] layer "twitter.png": Duplicate path: twitter.png
+[10/18/2017, 2:41:45 PM] layer "pinterest.png": Duplicate path: pinterest.png
+[10/18/2017, 2:41:45 PM] layer "logo.png": Duplicate path: logo.png
+[10/18/2017, 2:41:45 PM] layer "logo.png": Duplicate path: logo.png
+[10/18/2017, 2:41:45 PM] layer "pizza@parmigianos.com ": Unsupported extension: com

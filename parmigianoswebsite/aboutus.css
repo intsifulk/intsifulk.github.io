@@ -1,0 +1,202 @@
+@charset "UTF-8";
+.aboutbkgd_jpg {
+  background-image: url("parmigianos-assets/aboutbkgd.jpg");
+  position: absolute;
+  left: -1px;
+  top: 150px;
+  width: 1263px;
+  height: 948px;
+  z-index: 89;
+}
+.logo_png {
+  background-image: url("parmigianos-assets/logo.png");
+  position: absolute;
+  left: 19px;
+  top: 26px;
+  width: 123px;
+  height: 168px;
+  z-index: 95;
+}
+.location_jpg {
+  background-image: url("parmigianos-assets/location.jpg");
+  position: absolute;
+  left: -3px;
+  top: 729px;
+  width: 392px;
+  height: 276px;
+  z-index: 93;
+}
+.transparentbox_png {
+  background-image: url("parmigianos-assets/transparentbox.png");
+  opacity: 0.239;
+  position: absolute;
+  left: 389px;
+  top: 729px;
+  width: 810px;
+  height: 256px;
+  z-index: 90;
+}
+.bottomrectangle_png {
+  background-image: url("parmigianos-assets/bottomrectangle.png");
+  position: absolute;
+  left: -2px;
+  top: 985px;
+  width: 1202px;
+  height: 112px;
+  z-index: 97;
+}
+.facebook_png {
+  background-image: url("parmigianos-assets/facebook.png");
+  position: absolute;
+  left: 866px;
+  top: 1029px;
+  width: 36px;
+  height: 36px;
+  z-index: 100;
+}
+.instagram_png {
+  background-image: url("parmigianos-assets/instagram.png");
+  position: absolute;
+  left: 945px;
+  top: 1029px;
+  width: 37px;
+  height: 37px;
+  z-index: 101;
+}
+.twitter_png {
+  background-image: url("parmigianos-assets/twitter.png");
+  position: absolute;
+  left: 1021px;
+  top: 1030px;
+  width: 34px;
+  height: 34px;
+  z-index: 102;
+}
+.pinterest_png {
+  background-image: url("parmigianos-assets/pinterest.png");
+  position: absolute;
+  left: 1098px;
+  top: 1029px;
+  width: 36px;
+  height: 36px;
+  z-index: 103;
+}
+.parmigianostype_png {
+  background-image: url("parmigianos-assets/parmigianostype.png");
+  position: absolute;
+  left: 843px;
+  top: 13px;
+  width: 324px;
+  height: 75px;
+  z-index: 104;
+}
+.aboutus_contact_png {
+  background-image: url("parmigianos-assets/aboutus_contact.png");
+  position: absolute;
+  left: 842px;
+  top: 106px;
+  width: 322px;
+  height: 34px;
+  z-index: 96;
+}
+.aboutus_aboutus_png {
+  background-image: url("parmigianos-assets/aboutus_aboutus.png");
+  position: absolute;
+  left: 175px;
+  top: 117px;
+  width: 185px;
+  height: 26px;
+  z-index: 94;
+}
+.sincetype_png {
+  background-image: url("parmigianos-assets/sincetype.png");
+  position: absolute;
+  left: 425px;
+  top: 772px;
+  width: 347px;
+  height: 180px;
+  z-index: 91;
+}
+.relativelytype_png {
+  background-image: url("parmigianos-assets/relativelytype.png");
+  position: absolute;
+  left: 826px;
+  top: 772px;
+  width: 344px;
+  height: 119px;
+  z-index: 92;
+}
+.aboutus_email_png {
+  background-image: url("parmigianos-assets/aboutus_email.png");
+  position: absolute;
+  left: 48px;
+  top: 1013px;
+  width: 153px;
+  height: 14px;
+  z-index: 99;
+}
+.aboutus_copyrighttype_png {
+  background-image: url("parmigianos-assets/aboutus_copyrighttype.png");
+  position: absolute;
+  left: 47px;
+  top: 1033px;
+  width: 436px;
+  height: 31px;
+  z-index: 98;
+}
+
+
+p1
+{
+  font-size: 25px;
+  font-family: Gotham, 'Helvetica Neue', Helvetica, Arial, 'sans-serif' 'bold';
+  color: rgb(0, 0, 0);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 186.937px;
+  top: 105.7px;
+  z-index: 24;
+}
+
+p1 a
+{
+  font-size: 25px;
+  font-family: Gotham, 'Helvetica Neue', Helvetica, Arial, 'sans-serif' 'bold';
+  color: rgb(0, 0, 0);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 186.937px;
+  top: 105.7px;
+  z-index: 24;
+}
+.menu_png {
+  background-image: url("parmigianos-assets/menu.png");
+  position: absolute;
+  left: 169px;
+  top: 107px;
+  width: 60px;
+  height: 16px;
+  z-index: 24;
+}
+.aboutus_png {
+  background-image: url("parmigianos-assets/aboutus.png");
+  position: absolute;
+  left: 249px;
+  top: 107px;
+  width: 101px;
+  height: 16px;
+  z-index: 25;
+}
+
+
+
+
+
+
+
+
+
+
+

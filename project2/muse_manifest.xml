@@ -1,0 +1,308 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kojinobrand.com" resolutions="1x" timestamp="1513021871294">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="135971849" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="girlfit5.jpg" crc="4027153683" seo="true" mt="1509997080000"/>
+    <file name="girl5link.jpg" crc="3929224610" seo="true" mt="1512577871000"/>
+    <file name="girlfit5link_400w.jpg" crc="531397614" seo="true" mt="1512578473000"/>
+    <file name="girlfit17link_400w.jpg" crc="338796198" seo="true" mt="1512578835000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4153641093" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index"/>
+    <file name="form_check.php" crc="147359589" ref="index"/>
+    <file name="form_throttle.php" crc="93986428" ref="index"/>
+    <file name="form_process.php" crc="3851993751" ref="index"/>
+    <file name="form-u6435.php" crc="129888509" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="girlfit5.jpg" crc="3922006585" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="manfit28-u1830-fr.jpg" crc="4287076645" ref="index"/>
+    <file name="girlfit4summer.jpg" crc="4263186314" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="manfit13.jpg" crc="3853033667" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="girlfit18.jpg" crc="25590901" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="manfit23.jpg" crc="4195653964" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="girlfit25-u1739-fr.jpg" crc="502948522" ref="index"/>
+    <file name="manfit21-u1881-fr.jpg" crc="3978221951" ref="index"/>
+    <file name="girlfit2spring.jpg" crc="427635888" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="girlfit16.jpg" crc="3949745293" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="manfit9-u1827-fr.jpg" crc="52639471" ref="index"/>
+    <file name="manfit26-u1824-fr.jpg" crc="191071299" ref="index"/>
+    <file name="girlfit9-u1582-fr.jpg" crc="3841831689" ref="index"/>
+    <file name="girlfit17.jpg" crc="3926794407" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="manfit11-u1842-fr.jpg" crc="526270226" ref="index"/>
+    <file name="guyfit-u1845-fr.jpg" crc="135955224" ref="index"/>
+    <file name="girlfit19.jpg" crc="336381631" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="girlfit13.jpg" crc="3945471819" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="manfit2.jpg" crc="4142786461" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="manfit20.jpg" crc="3758627716" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="girlfit26.jpg" crc="3979194619" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="girlfit23-u1745-fr.jpg" crc="4120423172" ref="index"/>
+    <file name="manfit27-u1884-fr.jpg" crc="4086288040" ref="index"/>
+    <file name="manfit25.jpg" crc="3990580472" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="contact_iconswhite.png" crc="151279574" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="manfit4.jpg" crc="4120884685" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="kojinoinfo-1.png" crc="390507874" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="girlfit6.jpg" crc="4204839345" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="girlfit7.jpg" crc="283357359" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="girlfit8.jpg" crc="4272788830" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="girlfit12.jpg" crc="149880673" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="manfit12.jpg" crc="248363343" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="logo2.png" crc="3889873789" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facebook icon-crop-u3337.png" crc="40670460" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="insta-crop-u3333.png" crc="370527974" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="twitter-crop-u3335.png" crc="16559957" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pinterest-crop-u3331.png" crc="326618722" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo2-u3377-fr.png" crc="4016418817" ref="index"/>
+    <file name="girlfit2pop copy.jpg" crc="4267956743" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="girlfit16pop.jpg" crc="224837876" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="girl5link.jpg" crc="4231808838" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="manfit9.jpg" crc="4061451782" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="manfit28.jpg" crc="56941709" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="manfit26.jpg" crc="4211564536" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="girlfit2pop copy-crop-u5508.jpg" crc="196268113" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="manfit9-crop-u5438.jpg" crc="461175409" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="girlfit16pop-crop-u5587.jpg" crc="236138778" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="manfit28-crop-u5478.jpg" crc="295851648" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="girl5link-crop-u5013.jpg" crc="4046399007" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="manfit26-crop-u5560.jpg" crc="4274113899" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="manfit2-crop-u5844.jpg" crc="3893176964" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="girlfit18-crop-u5846.jpg" crc="3903922388" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="manfit20-crop-u5850.jpg" crc="4138537096" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="girlfit13-crop-u5852.jpg" crc="4201445862" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="manfit23-crop-u5848.jpg" crc="474042487" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="girlfit19-crop-u6181.jpg" crc="224340802" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="girlfit23.jpg" crc="202619391" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="girlfit25.jpg" crc="316323223" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="manfit21.jpg" crc="417523211" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="manfit27.jpg" crc="468638015" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="girlfit23-crop-u6206.jpg" crc="3989470804" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="manfit21-crop-u6200.jpg" crc="3957961376" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="girlfit25-crop-u6202.jpg" crc="109437489" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="manfit25-crop-u6386.jpg" crc="3936813412" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="girlfit26-crop-u6208.jpg" crc="235352189" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="manfit27-crop-u6406.jpg" crc="4213586501" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kojinobrandstore-crop-u3939.jpg" crc="4219969152" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kojinobrandstoreembed-crop-u4284.jpg" crc="287074449" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="about8-crop-u4311.jpg" crc="3887678539" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="about3-crop-u4339.jpg" crc="3854303059" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="about11-crop-u4367.jpg" crc="3799705156" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="about2-crop-u4395.jpg" crc="4194804817" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="about6-crop-u4423.jpg" crc="310334856" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="about7-crop-u4451.jpg" crc="3992254807" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="people4.jpg" crc="4264503648" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="people7.jpg" crc="518015616" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="people1.jpg" crc="65350310" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="people5.jpg" crc="455340368" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="people6.jpg" crc="487363462" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="people2.jpg" crc="3787513881" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="guyfit.jpg" crc="3797401532" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="manfit11.jpg" crc="383517568" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="girlfit4.jpg" crc="12250968" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="girlfit9.jpg" crc="3971995614" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="girlfit17link_400w.jpg" crc="523424724" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="guyfit-crop-u5615.jpg" crc="129935593" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="girlfit4-crop-u5623.jpg" crc="3761437117" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="manfit11-crop-u5796.jpg" crc="3996839485" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="girlfit9-crop-u5613.jpg" crc="3791561558" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="manfit13-crop-u5816.jpg" crc="9634699" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="girlfit17link_400w-crop-u5617.jpg" crc="492514228" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pinterest-crop-u3236.png" crc="389467848" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="insta-crop-u3243.png" crc="4170622187" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="twitter-crop-u3250.png" crc="298205310" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facebook icon-crop-u3257.png" crc="3787950162" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="283456716" seo="true" mt="1512592923111" redirect="true"/>
+</manifest>

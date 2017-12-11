@@ -1,0 +1,294 @@
+@charset "UTF-8";
+.menubackground_png {
+  background-image: url("parmigianos-assets/menubackground.png");
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1200px;
+  height: 2591px;
+  z-index: 41;
+}
+.menutoprectangle_png {
+  background-image: url("parmigianos-assets/menutoprectangle.png");
+  position: absolute;
+  left: 1px;
+  top: 0px;
+  width: 1199px;
+  height: 151px;
+  z-index: 49;
+}
+.logo_png {
+  background-image: url("parmigianos-assets/logo.png");
+  position: absolute;
+  left: 19px;
+  top: 26px;
+  width: 123px;
+  height: 168px;
+  z-index: 61;
+}
+.box1_png {
+  background-image: url("parmigianos-assets/box1.png");
+  position: absolute;
+  left: 34px;
+  top: 225px;
+  width: 1133px;
+  height: 423px;
+  z-index: 53;
+}
+.box2_png {
+  background-image: url("parmigianos-assets/box2.png");
+  position: absolute;
+  left: 34px;
+  top: 665px;
+  width: 1133px;
+  height: 423px;
+  z-index: 54;
+}
+.box3_png {
+  background-image: url("parmigianos-assets/box3.png");
+  position: absolute;
+  left: 33px;
+  top: 1104px;
+  width: 1133px;
+  height: 423px;
+  z-index: 55;
+}
+.box4_png {
+  background-image: url("parmigianos-assets/box4.png");
+  position: absolute;
+  left: 33px;
+  top: 1544px;
+  width: 1133px;
+  height: 423px;
+  z-index: 56;
+}
+.box5_png {
+  background-image: url("parmigianos-assets/box5.png");
+  position: absolute;
+  left: 33px;
+  top: 1982px;
+  width: 1133px;
+  height: 423px;
+  z-index: 57;
+}
+.veggiedelight_jpg {
+  background-image: url("parmigianos-assets/veggiedelight.jpg");
+  position: absolute;
+  left: 34px;
+  top: 225px;
+  width: 635px;
+  height: 423px;
+  z-index: 58;
+}
+.meatlover_jpg {
+  background-image: url("parmigianos-assets/meatlover.jpg");
+  position: absolute;
+  left: 34px;
+  top: 665px;
+  width: 635px;
+  height: 423px;
+  z-index: 60;
+}
+
+.mixedtoppings_jpg {
+  background-image: url("parmigianos-assets/mixedtoppings.jpg");
+  position: absolute;
+  left: 33px;
+  top: 1104px;
+  width: 636px;
+  height: 423px;
+  z-index: 61;
+}
+.salads_jpg {
+  background-image: url("parmigianos-assets/salads.jpg");
+  position: absolute;
+  left: 33px;
+  top: 1544px;
+  width: 636px;
+  height: 423px;
+  z-index: 63;
+}
+.subs_jpg {
+  background-image: url("parmigianos-assets/subs.jpg");
+  position: absolute;
+  left: 33px;
+  top: 1982px;
+  width: 636px;
+  height: 423px;
+  z-index: 64;
+}
+.menubottrectangle_png {
+  background-image: url("parmigianos-assets/menubottrectangle.png");
+  position: absolute;
+  left: 1px;
+  top: 2478px;
+  width: 1199px;
+  height: 112px;
+  z-index: 42;
+}
+.facebook_png {
+  background-image: url("parmigianos-assets/facebook.png");
+  position: absolute;
+  left: 866px;
+  top: 2522px;
+  width: 36px;
+  height: 36px;
+  z-index: 45;
+}
+.instagram_png {
+  background-image: url("parmigianos-assets/instagram.png");
+  position: absolute;
+  left: 945px;
+  top: 2522px;
+  width: 37px;
+  height: 37px;
+  z-index: 46;
+}
+.twitter_png {
+  background-image: url("parmigianos-assets/twitter.png");
+  position: absolute;
+  left: 1021px;
+  top: 2523px;
+  width: 34px;
+  height: 34px;
+  z-index: 47;
+}
+.pinterest_png {
+  background-image: url("parmigianos-assets/pinterest.png");
+  position: absolute;
+  left: 1098px;
+  top: 2522px;
+  width: 36px;
+  height: 36px;
+  z-index: 48;
+}
+.parmigianosinfo_png {
+  background-image: url("parmigianos-assets/parmigianosinfo.png");
+  position: absolute;
+  left: 843px;
+  top: 13px;
+  width: 324px;
+  height: 75px;
+  z-index: 51;
+}
+.menu_aboutus_png {
+  background-image: url("parmigianos-assets/menu_aboutus.png");
+  position: absolute;
+  left: 175px;
+  top: 117px;
+  width: 185px;
+  height: 26px;
+  z-index: 52;
+}
+.menu_contact_png {
+  background-image: url("parmigianos-assets/menu_contact.png");
+  position: absolute;
+  left: 842px;
+  top: 106px;
+  width: 322px;
+  height: 34px;
+  z-index: 50;
+}
+.veggietype_png {
+  background-image: url("parmigianos-assets/veggietype.png");
+  position: absolute;
+  left: 821px;
+  top: 294px;
+  width: 236px;
+  height: 156px;
+  z-index: 64;
+}
+.meattype_png {
+  background-image: url("parmigianos-assets/meattype.png");
+  position: absolute;
+  left: 819px;
+  top: 781px;
+  width: 222px;
+  height: 155px;
+  z-index: 65;
+}
+.meattype_png {
+  background-image: url("parmigianos-assets/meattype.png");
+  position: absolute;
+  left: 819px;
+  top: 781px;
+  width: 222px;
+  height: 155px;
+  z-index: 65;
+}
+.mixedtype_png {
+  background-image: url("parmigianos-assets/mixedtype.png");
+  position: absolute;
+  left: 819px;
+  top: 1189px;
+  width: 235px;
+  height: 155px;
+  z-index: 66;
+}
+.saladstype_png {
+  background-image: url("parmigianos-assets/saladstype.png");
+  position: absolute;
+  left: 820px;
+  top: 1627px;
+  width: 221px;
+  height: 156px;
+  z-index: 67;
+}
+.substype_png {
+  background-image: url("parmigianos-assets/substype.png");
+  position: absolute;
+  left: 820px;
+  top: 2067px;
+  width: 221px;
+  height: 156px;
+  z-index: 68;
+}
+.menu_email_png {
+  background-image: url("parmigianos-assets/menu_email.png");
+  position: absolute;
+  left: 48px;
+  top: 2506px;
+  width: 153px;
+  height: 14px;
+  z-index: 44;
+}
+.menu_copyright_png {
+  background-image: url("parmigianos-assets/menu_copyright.png");
+  position: absolute;
+  left: 47px;
+  top: 2526px;
+  width: 436px;
+  height: 31px;
+  z-index: 43;
+}
+.menu_png_ {
+  background-image: url("menu.png .png");
+  position: absolute;
+  left: 169px;
+  top: 107px;
+  width: 60px;
+  height: 16px;
+  z-index: 70;
+}
+.aboutus_png {
+  background-image: url("parmigianos-assets/aboutus.png");
+  position: absolute;
+  left: 249px;
+  top: 107px;
+  width: 101px;
+  height: 16px;
+  z-index: 71;
+}
+.menu_png_ {
+  background-image: url(parmigianos-assets/menu.png);
+  position: absolute;
+  left: 169px;
+  top: 107px;
+  width: 60px;
+  height: 16px;
+  z-index: 70;
+}
+
+
+
+
